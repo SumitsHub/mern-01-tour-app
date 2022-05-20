@@ -1,0 +1,2 @@
+mongodb username=root
+mongodb password=PvPnzBdDd9GjDhg4
